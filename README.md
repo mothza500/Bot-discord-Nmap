@@ -1,4 +1,3 @@
 # Bot-discord-Nmap
 
-pip install discord.py\n
-pip install python-nmap
+pip install discord.py ,  pip install python-nmap
